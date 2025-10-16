@@ -22,3 +22,39 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Dependencies
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+.parcel-cache
+
+# Misc
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+
+# IDE
+*.swp
+*.swo
+*~
+.env
+
+# OS
+Thumbs.db
+
+# Vite
+.vite/
+
+# Cache
+.eslintcache
